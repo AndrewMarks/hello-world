@@ -1,2 +1,3 @@
 # hello-world
-A test repo for me to learn this stuff. 
+
+Hello all! I am learning how to code and how this whole thing works.
